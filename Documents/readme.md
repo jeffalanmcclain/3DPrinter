@@ -11,6 +11,8 @@
 - [ ]Put endstop switch on Z-axis max?
 - [x]Rewrite entire HOME routine to force safer X/Y order operation (and skip if not needed)
 - [ ]Fix/Improve the feed between Extruder and HE on XOL toolhead
+- [x]Restructure entire congig section into directories and move some things under manta.cfg
+- [x]Document everything on GIT
 
 # Debug Stuff
 
