@@ -15,14 +15,26 @@
 # Debug Stuff
 
 - To check for errors on canbus (non-invasive)
-```candump can0,0~0,#FFFFFFFF```
+
+```
+candump can0,0~0,#FFFFFFFF
+```
 
 - To generate canbus loading (kills klipper, if it is running)
-```cangen -e -g 0.12 can0```
+
+```
+cangen -e -g 0.12 can0
+```
 
 - To watch for traffic on the canbus
+
+```
 watch -n 1 -d "ip -details -statistics link show can0"
 watch -n 1 "tc -s qdisc show dev can0"
+```
 
 - To watch load on the canbus (as percentage %)
-```canbusload can0@1000000 -b -c```
+
+```
+canbusload can0@1000000 -b -c
+```
