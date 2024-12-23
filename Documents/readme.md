@@ -4,15 +4,25 @@
 - [x]Make up new umbilical from frame to toolhead
 - [ ]Look into X-axis resonance
  - [ ]Is it affected by putting printer on hardwood floor instead of shakey card table
+ - [ ]Need better cable swing support?
 - [x]Design webcam mount integrated into Apex-eng corner bracket
  - [x]print it and test it
 - [x]Rerun Voron Calibration Cube
+- [ ]Update Carto FW when available to fix Coil Frequency error
 - [ ]Build StealthBurner
 - [ ]Put endstop switch on Z-axis max?
 - [x]Rewrite entire HOME routine to force safer X/Y order operation (and skip if not needed)
 - [ ]Fix/Improve the feed between Extruder and HE on XOL toolhead
+  - [x]Order Stainless 4mm OD x 2mm ID tube
+  - [ ]Install in XOL
 - [x]Restructure entire congig section into directories and move some things under manta.cfg
-- [x]Document everything on GIT
+- [ ]Document everything on GIT
+  - [x]Initial refactored GIT structure
+  - [x]Samba share on CM4
+  - [x]Sync GIT to samba share
+  - [x]Sym-link Siboor config in GIT structure to ~/printer_data/config
+  - [x]Pull-sync to printer
+  - [x]Ensure restart works
 
 # Debug Stuff
 
