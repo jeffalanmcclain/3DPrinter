@@ -1,5 +1,12 @@
 This will document the build and MODS to my [Siboor AWD Trident 350mm](https://www.siboor.com/product/siboor-voron-trident/)
 # The build
+- Manta M8p and CM4 prep
+- frame
+- gantry
+- bed
+- electronics
+- panels
+- misc
 # Hardware upgrades/MODs
 - CM4 4GB/32GB
 - TMC5160Pro drivers
@@ -30,3 +37,7 @@ This will document the build and MODS to my [Siboor AWD Trident 350mm](https://w
 - Filament combiner
 - Voron Top X-Handles
 # Software upgrades/MODs
+- samba
+- crowsnest
+- spoolman
+- timelapse
