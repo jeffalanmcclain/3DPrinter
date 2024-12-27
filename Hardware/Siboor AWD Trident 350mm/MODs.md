@@ -121,6 +121,10 @@
    [EBB36 PG7 mount](https://www.printables.com/make/2268162)
 
   <img alt="Cartographer mount spacers" height=480 src="assets/IMG_0873.JPG">
+
+ - PTFE bend support
+
+  [PTFE bend support](https://www.printables.com/make/2268145)
    
  - Final view
    
