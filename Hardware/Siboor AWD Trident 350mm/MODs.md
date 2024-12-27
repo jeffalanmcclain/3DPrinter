@@ -32,6 +32,7 @@
   - Internal corner mount STL
     
     <img alt="USB Cam Corner mount" height=480 src="assets/IMG_0622.JPG">
+    [Printables Corner Mount STL](https://www.printables.com/model/1101887-logitech-c920-2020-corner-mount)
     
 ## BTT K-Touch
   
@@ -52,21 +53,26 @@
 ## Disco LED sticks for chamber (x4)
 
 270mm WS2812B 18-LED light bar.
+
 <img alt="Disco LEDs" height=480 src="assets/IMG_0592.JPG">
-<img alt="Disco LEDs" height=480 src="assets/IMG_0599.JPG">
+<img alt="Disco LEDs" height=480 src="assets/IMG_0598.JPG">
+
 [270mm Disco LED sticks](https://www.siboor.com/product/voron-2-4-v2-4-3d-printer-daylight-disco-on-a-stick-pcb-kits-5v-lamp-bar-270-158mm-for-voron-0-1-0-2-2-4-trident-350-300-250mm/)
+
 [LED Bar Clip Misumi v2](assets/LED_Bar_Clip_Misumi_version2.stl)
 
 ## Rear motor flip
-  
-    <img alt="Temp Sensor" height=480 src="assets/IMG_0783.JPG">
+
+<img alt="Rear Motor flip" height=480 src="assets/IMG_0783.JPG">
     
 ## Additional Temp sensors
   - Top chamber
  
-    <img alt="Temp Sensor" height=480 src="assets/IMG_0597z.jpg">
-    [STL for 2020 mount](https://mods.vorondesign.com/details/dfRX88k7wwS6tpYlvyCEw)
-    <img alt="2020 Temp Sensor mount" height=480 src="assets/extrusion_thermistor_holder.png">
+  <img alt="Temp Sensor" height=480 src="assets/IMG_0597z.jpg">
+  
+[STL for 2020 mount](https://mods.vorondesign.com/details/dfRX88k7wwS6tpYlvyCEw)
+
+  <img alt="2020 Temp Sensor mount" height=480 src="assets/extrusion_thermistor_holder.png">
      
   - Bottom chamber
     
