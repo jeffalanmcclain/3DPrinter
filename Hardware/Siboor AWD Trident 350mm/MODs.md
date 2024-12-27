@@ -36,8 +36,8 @@
     
 ## BTT K-Touch
   
-  [BTT K-Touch wireless screen](https://www.amazon.com/dp/B0D4YTSLDZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
-  <img alt="BTT K-Touch wireless screen" height=480 src="assets/BTT_KTouch.jpg">
+ [BTT K-Touch wireless screen](https://www.amazon.com/dp/B0D4YTSLDZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+ <img alt="BTT K-Touch wireless screen" height=480 src="assets/BTT_KTouch.jpg">
   
 ## Annex-Eng panel clips
   - Top / Back panel using 5.0mm
@@ -86,7 +86,23 @@
   - G2SA extruder
   - Drag chain mount
   - Cartographer mounts
+
 ## Horizontal drag chain elim and move to umbilical
+
 ## Internal spool holder
+[Internal Spool Holder](https://www.printables.com/model/1105610-spring-loaded-internal-spool-holder)
+
+<img alt="Internal Spool Holder" height=480 src="assets/IMG_0761.png">
+<img alt="Internal Spool Holder" height=480 src="assets/IMG_0767.JPG">
+
 ## Filament combiner
+
+[Armored Turtle 4-to-1 Filament Hub](https://github.com/ArmoredTurtle/BoxTurtle/blob/main/STLs/Legacy/%5Ba%5D_hub_D2F.stl)
+
+<img alt="Armored Turtle 4-to-1 Filament Hub" height=480 src="assets/IMG_0776.png">
+
 ## Voron Top X-Handles
+
+[Voron Strengthened X Handles](https://www.printables.com/model/1053718-strengthened-voron-x-handles)
+
+<img alt="Voron Strengthened X Handles" height=480 src="assets/x-handles.png">
