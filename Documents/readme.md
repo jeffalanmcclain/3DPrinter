@@ -24,7 +24,7 @@
   - [x]Pull-sync to printer
   - [x]Ensure restart works
   - [x]Update links/images formatting into better table structure
-- [ ]Update Internal Spoolholder STL to have recessed spring/bolts
+- [x]Update Internal Spoolholder STL to have recessed spring/bolts
 
 # Debug Stuff
 
