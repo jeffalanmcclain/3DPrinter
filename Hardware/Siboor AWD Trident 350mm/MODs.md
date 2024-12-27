@@ -50,19 +50,21 @@
 ## Network & USB keystones
 
 ## Disco LED sticks for chamber (x4)
+
 270mm WS2812B 18-LED light bar.
-<img alt="Annex-Eng panel clips" height=480 src="assets/IMG_0591.JPG">
+<img alt="Disco LEDs" height=480 src="assets/IMG_0592.JPG">
+<img alt="Disco LEDs" height=480 src="assets/IMG_0599.JPG">
 [270mm Disco LED sticks](https://www.siboor.com/product/voron-2-4-v2-4-3d-printer-daylight-disco-on-a-stick-pcb-kits-5v-lamp-bar-270-158mm-for-voron-0-1-0-2-2-4-trident-350-300-250mm/)
 [LED Bar Clip Misumi v2](assets/LED_Bar_Clip_Misumi_version2.stl)
 
 ## Rear motor flip
   
-    <img alt="Temp Sensor" height=480 src="assets/IMG_0534.JPG">
+    <img alt="Temp Sensor" height=480 src="assets/IMG_0783.JPG">
     
 ## Additional Temp sensors
   - Top chamber
  
-    <img alt="Temp Sensor" height=480 src="assets/IMG_0597z.JPG">
+    <img alt="Temp Sensor" height=480 src="assets/IMG_0597z.jpg">
     [STL for 2020 mount](https://mods.vorondesign.com/details/dfRX88k7wwS6tpYlvyCEw)
     <img alt="2020 Temp Sensor mount" height=480 src="assets/extrusion_thermistor_holder.png">
      
@@ -82,9 +84,3 @@
 ## Internal spool holder
 ## Filament combiner
 ## Voron Top X-Handles
-
-# Software upgrades/MODs
-- samba
-- crowsnest
-- spoolman
-- timelapse
