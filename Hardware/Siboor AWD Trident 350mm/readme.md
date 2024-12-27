@@ -10,14 +10,22 @@ This will document the build and MODS to my [Siboor AWD Trident 350mm](https://w
   <img alt="350mm Frame" height=480 src="assets/IMG_0342.JPG">
 
 - gantry
+  
   <img alt="Gantry" height=480 src="assets/IMG_0455.JPG">
+  
 - bed
+  
   <img alt="Bed" height=480 src="assets/IMG_0527.JPG">
   <img alt="Bed" height=480 src="assets/IMG_0534.JPG">
+  
 - electronics
+  
   <img alt="Electronics" height=480 src="assets/IMG_0519.JPG">
+  
 - panels
+  
   <img alt="Panels" height=480 src="assets/IMG_0455.JPG">
+  
 - misc
 # Hardware upgrades/MODs
 - CM4 4GB/32GB
@@ -70,17 +78,24 @@ This will document the build and MODS to my [Siboor AWD Trident 350mm](https://w
 - Network & USB keystones
 - Disco LED sticks for chamber (x4)
 - Rear motor flip
+  
     <img alt="Temp Sensor" height=480 src="assets/IMG_0534.JPG">
+    
 - Additional Temp sensors
   - Top chamber
+ 
     <img alt="Temp Sensor" height=480 src="assets/IMG_0597z.JPG">
     [STL for 2020 mount](https://mods.vorondesign.com/details/dfRX88k7wwS6tpYlvyCEw)
     <img alt="2020 Temp Sensor mount" height=480 src="assets/extrusion_thermistor_holder.png">
      
   - Bottom chamber
+    
     <img alt="Temp Sensor" height=480 src="assets/IMG_0577.JPG">
+    
   - Electronics bay
+    
     <img alt="Temp Sensor" height=480 src="assets/IMG_0679.JPG">
+    
 - XOL toolhead
   - G2SA extruder
   - Drag chain mount
