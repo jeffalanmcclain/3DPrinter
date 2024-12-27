@@ -24,7 +24,8 @@ This will document the build and MODS to my [Siboor AWD Trident 350mm](https://w
   
 - panels
   
-  <img alt="Panels" height=480 src="assets/IMG_0455.JPG">
+  <img alt="Panels" height=480 src="assets/IMG_0781.JPG">
+  <img alt="Panels" height=480 src="assets/IMG_0810.JPG">
   
 - misc
 # Hardware upgrades/MODs
