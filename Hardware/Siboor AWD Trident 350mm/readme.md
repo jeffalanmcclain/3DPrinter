@@ -79,7 +79,13 @@ This will document the build and MODS to my [Siboor AWD Trident 350mm](https://w
   <img alt="Annex-Eng panel clips" height=480 src="assets/IMG_0607.JPG">
   
 ## Network & USB keystones
+
 ## Disco LED sticks for chamber (x4)
+270mm WS2812B 18-LED light bar.
+<img alt="Annex-Eng panel clips" height=480 src="assets/IMG_0591.JPG">
+[270mm Disco LED sticks](https://www.siboor.com/product/voron-2-4-v2-4-3d-printer-daylight-disco-on-a-stick-pcb-kits-5v-lamp-bar-270-158mm-for-voron-0-1-0-2-2-4-trident-350-300-250mm/)
+[LED Bar Clip Misumi v2](assets/LED_Bar_Clip_Misumi_version2.stl)
+
 ## Rear motor flip
   
     <img alt="Temp Sensor" height=480 src="assets/IMG_0534.JPG">
