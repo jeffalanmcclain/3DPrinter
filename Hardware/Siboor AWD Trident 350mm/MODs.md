@@ -1,11 +1,10 @@
 # Hardware upgrades/MODs
-## CM4 4GB/32GB
-  
-  <img alt="CM4 4GB/32GB" height=480 src="assets/CM4_4GB_32GB.jpg">
-  
-## TMC5160Pro drivers
-  
-  <img alt="TMC5160Pro drivers" height=480 src="assets/TMC5160TPro.jpg">
+These are the MODs I've made to my [Siboor AWD Trident 350mm](https://www.siboor.com/product/siboor-voron-trident/)
+
+|  Item| Description | Rating | Images |
+|	--------------------	|	--------------------	| --------------------	|	--------------------	|
+|  [CM4 4GB/32GB](https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4104032-p-4722.html) | Got this to try to avoid all the Timer Too Close MCU fails and have enough resources to manage two webcams and have more onboard storage than the CB2 offering. | :star::star::star: |  <img alt="CM4 4GB/32GB" height=240 src="assets/CM4_4GB_32GB.jpg"> |
+| TMC5160Pro drivers | | |  <img alt="TMC5160Pro drivers" height=240 src="assets/TMC5160TPro.jpg"> |
   
 ## 48v 200W PSU for X/Y motors
   
