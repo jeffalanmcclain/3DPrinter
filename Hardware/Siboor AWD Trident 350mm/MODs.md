@@ -31,8 +31,8 @@
     - 78' FOV
   - Internal corner mount STL
     
-    <img alt="USB Cam Corner mount" height=480 src="assets/IMG_0622.JPG">
-    [Printables Corner Mount STL](https://www.printables.com/model/1101887-logitech-c920-2020-corner-mount)
+  [Printables Corner Mount STL](https://www.printables.com/model/1101887-logitech-c920-2020-corner-mount)
+  <img alt="USB Cam Corner mount" height=480 src="assets/IMG_0622.JPG">
     
 ## BTT K-Touch
   
@@ -63,7 +63,7 @@
 
 ## Rear motor flip
 
-<img alt="Rear Motor flip" height=480 src="assets/IMG_0783.JPG">
+<img alt="Rear Motor flip" height=480 src="assets/IMG_0534.JPG">
     
 ## Additional Temp sensors
   - Top chamber
