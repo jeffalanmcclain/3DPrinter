@@ -88,7 +88,7 @@
 
   - Rapido2 UHF PT1000
 
-  <img alt="Rapido2 UHF PT1000" height=480 src="assets/rapido2hf.png">
+  <img alt="Rapido2 UHF PT1000" height=480 src="assets/rapido2HF.png">
 
   [Rapido2 UHF PT1000](https://www.phaetus.com/products/rapido2?variant=45177211060501)
     
