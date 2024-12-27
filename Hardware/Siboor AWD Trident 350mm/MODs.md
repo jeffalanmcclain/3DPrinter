@@ -83,11 +83,49 @@
     <img alt="Temp Sensor" height=480 src="assets/IMG_0679.JPG">
     
 ## XOL toolhead
+
+<img alt="XOL + EBB36 + G2SA" height=480 src="assets/IMG_0645.JPG">
+
+  - Rapido2 UHF PT1000
+
+  <img alt="Rapido2 UHF PT1000" height=480 src="assets/rapido2hf.png">
+
+  [Rapido2 UHF PT1000](https://www.phaetus.com/products/rapido2?variant=45177211060501)
+    
   - G2SA extruder
+
+  <img alt="G2SA" height=480 src="assets/IMG_0179.JPG">
+
+  [Galileo 2 Stand Alone](https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone)
+    
   - Drag chain mount
+
+  <img alt="Drag chain mount to EBB36" height=480 src="assets/IMG_0772.JPG">
+
+  [XOL EBB36 + G2SA drag chain mount](https://www.printables.com/model/794851-xol-horizontal-drag-chain-ebb36-for-g2sa)
+    
   - Cartographer mounts
+    Printed 4.5mm spacers for the bottom to setup the cartographer with proper 2.5mm-3.0mm spacing up from nozzle.
+
+<img alt="Cartographer mount spacers" height=480 src="assets/IMG_0827.JPG">
 
 ## Horizontal drag chain elim and move to umbilical
+ - Frame PG7 mount
+   
+  [PG7 2020 mount](https://www.printables.com/model/1099507-voron-trident-pg7-mount-bracket)
+
+   <img alt="2020 PG7 mount" height=480 src="assets/IMG_0902.JPG">
+   
+ - EBB36 PG7 mount
+
+   [EBB36 PG7 mount](https://www.printables.com/make/2268162)
+
+  <img alt="Cartographer mount spacers" height=480 src="assets/IMG_0873.JPG">
+   
+ - Final view
+   
+<img alt="Cartographer mount spacers" height=480 src="assets/IMG_0895.JPG">
+<img alt="Cartographer mount spacers" height=480 src="assets/IMG_0901.JPG">
 
 ## Internal spool holder
 [Internal Spool Holder](https://www.printables.com/model/1105610-spring-loaded-internal-spool-holder)
