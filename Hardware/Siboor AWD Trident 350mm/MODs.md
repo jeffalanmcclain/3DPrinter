@@ -32,11 +32,13 @@
   - Internal corner mount STL
     
   [Printables Corner Mount STL](https://www.printables.com/model/1101887-logitech-c920-2020-corner-mount)
+  
   <img alt="USB Cam Corner mount" height=480 src="assets/IMG_0622.JPG">
     
 ## BTT K-Touch
   
  [BTT K-Touch wireless screen](https://www.amazon.com/dp/B0D4YTSLDZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
+ 
  <img alt="BTT K-Touch wireless screen" height=480 src="assets/BTT_KTouch.jpg">
   
 ## Annex-Eng panel clips
