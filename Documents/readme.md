@@ -16,13 +16,14 @@
   - [x]Order Stainless 4mm OD x 2mm ID tube
   - [ ]Install in XOL
 - [x]Restructure entire congig section into directories and move some things under manta.cfg
-- [ ]Document everything on GIT
+- [x]Document everything on GIT
   - [x]Initial refactored GIT structure
   - [x]Samba share on CM4
   - [x]Sync GIT to samba share
   - [x]Sym-link Siboor config in GIT structure to ~/printer_data/config
   - [x]Pull-sync to printer
   - [x]Ensure restart works
+  - [x]Update links/images formatting into better table structure
 
 # Debug Stuff
 
