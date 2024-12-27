@@ -1,6 +1,8 @@
 # Software upgrades/MODs
 | Item | Description | Images |
 | --------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| [Raspberry Pi 64-bit Debian v12](https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-64-bit) | Desktop version of Debian v12 bookworm | |
+| [Esoterical Canbus](https://canbus.esoterical.online/) | Really, just a firmware guide for Klipper and Katapult installation | |
 | [Crowsnest](https://github.com/mainsail-crew/crowsnest) | Good webcam manager plug-in for moonraker | |
 | [Spoolman](https://github.com/Donkie/Spoolman) | Excellent filament spool manager database that integrates into printer to monitor usage (works in Fluidd and Mainsail) | <img alt="Gantry" width=320 src="assets/spoolman.png"> |
 | [Timelapse](https://github.com/mainsail-crew/moonraker-timelapse) | Good plugin for moonraker that allows time lapse footage per layer as well as parked head snapshots (Fluidd and Mainsail supported) | <img alt="timelapse" width=320 src="assets/voron_cube.gif"> |
