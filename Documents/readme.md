@@ -2,19 +2,17 @@
 - [x]Install umbilical
 - [x]Fix adapter cable GND/Vin swapped
 - [x]Make up new umbilical from frame to toolhead
-- [ ]Look into X-axis resonance
- - [ ]Is it affected by putting printer on hardwood floor instead of shakey card table
- - [ ]Need better cable swing support?
+- [x]Look into X-axis resonance
+ - [x]Is it affected by putting printer on hardwood floor instead of shakey card table...some, but not the double issue.
+ - [x]Need better cable swing support?  Don't think so.
+ - [x]Get both EBB36 adxl345 and Carto working to compare.  Now I have even MORE questions...lol.
 - [x]Design webcam mount integrated into Apex-eng corner bracket
  - [x]print it and test it
 - [x]Rerun Voron Calibration Cube
-- [ ]Update Carto FW when available to fix Coil Frequency error
-- [ ]Build StealthBurner
-- [ ]Put endstop switch on Z-axis max?
 - [x]Rewrite entire HOME routine to force safer X/Y order operation (and skip if not needed)
-- [ ]Fix/Improve the feed between Extruder and HE on XOL toolhead
+- [x]Fix/Improve the feed between Extruder and HE on XOL toolhead
   - [x]Order Stainless 4mm OD x 2mm ID tube
-  - [ ]Install in XOL
+  - [x]Install in XOL
 - [x]Restructure entire congig section into directories and move some things under manta.cfg
 - [x]Document everything on GIT
   - [x]Initial refactored GIT structure
@@ -25,6 +23,9 @@
   - [x]Ensure restart works
   - [x]Update links/images formatting into better table structure
 - [x]Update Internal Spoolholder STL to have recessed spring/bolts
+- [ ]Update Carto FW when available to fix Coil Frequency error
+- [ ]Build StealthBurner
+- [ ]Put endstop switch on Z-axis max?
 
 # Debug Stuff
 
