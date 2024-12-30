@@ -11,7 +11,7 @@ To that end, I have moved all my configs toward this later approach:
 
 <img align=center alt="Alternate Example Hierarch" src="assets/ConfigLayout2.png" height=400>
 
-But as it stands now, to swap between StealthBurner and XOL toolhead`, even with all the different toolhead MCU boards, IOs, different fans and pin defs and stuff, it is as simple as comment __OUT__ `XOL.cfg` and uncomment `stealthburner.cfg` in `hardware.cfg` include list.  Or really, to power up the printer and have it functional, without the TOOLHEAD MCU connected or even on the printer.  And all of the `[input shapper]` and hotend PID heater tunes go in each toolhead config.  NOT in `printer.cfg`.
+But as it stands now, to swap between StealthBurner and XOL toolhead, even with all the different toolhead MCU boards, IOs, different fans and pin defs and stuff, it is as simple as comment __OUT__ `XOL.cfg` and uncomment `stealthburner.cfg` in `hardware.cfg` include list.  Or really, to power up the printer and have it functional, without the TOOLHEAD MCU connected or even on the printer.  And all of the `[input shapper]` and hotend PID heater tunes go in each toolhead config.  NOT in `printer.cfg`.
 
 I also have managed to REDEFINE sections (like x `endstop_pin:`) that will change once you get to the toolhead include, but the motion.cfg needs a valid PIN before (or if there is no) toolhead.cfg.  For example, I define a dummy entry for x `endstop_pin: PF4` in the manta board before it even knows about a toolhead MCU that the REAL x `endstop_pin: THB:PB6` will be connected to, and then REDEFINE this in the xol.cfg IF it is included.  
 
