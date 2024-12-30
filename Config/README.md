@@ -5,7 +5,9 @@ __All__ of the pin definitions for a given MCU should be in that area.  For exam
 
 <img alt="Example Hierarchy of Config files" src="assets/ConfigLayout.png" height=400>
 
-You could argue that putting toolhead fans in the `xol.cfg` breaks the idea of a "universal" fans location in the `fans.cfg` and probalby you'd be right (and even toolhead led's are in the xol.cfg, but the chamber led's are in their own led.cfg).  Technically, I should have made a `manta.cfg` under `hardware.cfg` and then put `motion.cfg` and `fans.cfg` and `bed.cfg` all below that, and you could then have fans and led below XOL as well to be more clear.  Here, each item in :red_circle:red:red_circle: has it's own MCU on the canbus.  I may still move toward that, with something like the following:
+You could argue that putting toolhead fans in the `xol.cfg` breaks the idea of a "universal" fans location in the `fans.cfg` and probalby you'd be right (and even toolhead led's are in the xol.cfg, but the chamber led's are in their own led.cfg).  Technically, I should have made a `manta.cfg` under `hardware.cfg` and then put `motion.cfg` and `fans.cfg` and `bed.cfg` all below that, and you could then have fans and led below XOL as well to be more clear.  Here, each item in :red_circle:red:red_circle: has it's own MCU on the canbus.  
+
+To that end, I have moved all my configs toward this later approach:
 
 <img align=center alt="Alternate Example Hierarch" src="assets/ConfigLayout2.png" height=400>
 
