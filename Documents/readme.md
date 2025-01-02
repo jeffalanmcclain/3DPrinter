@@ -23,9 +23,12 @@
   - [x]Ensure restart works
   - [x]Update links/images formatting into better table structure
 - [x]Update Internal Spoolholder STL to have recessed spring/bolts
+- [x]Work on reverse tunnel proxy service to gain external access
+- [x]Install Fluidd/Mainsail as docker on NAS
 - [ ]Update Carto FW when available to fix Coil Frequency error
 - [ ]Build StealthBurner
 - [ ]Put endstop switch on Z-axis max?
+
 
 # Debug Stuff for TTC and canbus traffic
 
