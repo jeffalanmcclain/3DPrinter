@@ -27,7 +27,7 @@
 - [ ]Build StealthBurner
 - [ ]Put endstop switch on Z-axis max?
 
-# Debug Stuff
+# Debug Stuff for TTC and canbus traffic
 
 - To check for errors on canbus (non-invasive)
 
@@ -52,4 +52,10 @@ watch -n 1 "tc -s qdisc show dev can0"
 
 ```
 canbusload can0@1000000 -b -c
+```
+
+- To graph klipper.log
+
+```
+~/klipper/scripts/graphstats.py /tmp/klippy.log -o loadgraph_host.png
 ```
