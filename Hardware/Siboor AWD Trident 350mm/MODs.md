@@ -1,6 +1,11 @@
 # Hardware upgrades/MODs
 These are the MODs I've made to my [Siboor AWD Trident 350mm](https://www.siboor.com/product/siboor-voron-trident/)
 
+First, a couple tips/hints/suggestions if I were going to do it over:
+1. Do NOT route your USB cables in the electronics bay wire loom channels.  It makes it nice and tidy, but these are likely to change and it is supper hard to pull them back out later.
+2. I would pre-grind the AWD Al mounting brackets a bit, to increase the clearance between them and the 2020 extrusions to allow more easily to slip USB cabling and other motor wiring (and yes, even the Canbus cable) to fit there.  It is a real pain to try to pull them out and fit them back in there later.
+3. Try to use the dedicated JST-XH or whatever 4-pin USB port on the main board for at least one USB webcam.  Just chop off the end of the cable and wire it up with the wire ends included in the Siboor kit.
+
 | Item| Description | Rating | Images |
 |	------------------	|	----------------------------	| ------------	|	-------------------------------------------------------------	|
 | [CM4 4GB/32GB](https://www.seeedstudio.com/Raspberry-Pi-Compute-Module-CM4104032-p-4722.html) | Got this to try to avoid all the Timer Too Close MCU fails and have enough resources to manage two webcams and have more onboard storage than the CB2 offering. So far, once I eliminated the [LED Effects](https://github.com/julianschill/klipper-led_effect) plug-in module, which was causing massive TTC failures on both the Manta MCU and EBB36 MCU, it has handled everything like a champ. | :star::star::star::star: |  <img alt="CM4 4GB/32GB" width=320 src="assets/CM4_4GB_32GB.jpg"> |
